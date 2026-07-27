@@ -1,0 +1,19 @@
+# ============================================================
+# 108% TOOL – Alle Abhängigkeiten für Termux
+# ============================================================
+
+# HTTP-Anfragen & Netzwerk
+requests>=2.28.0
+
+# Bildverarbeitung (EXIF-Daten)
+Pillow>=9.0.0
+
+# (Optional) Besseres HTML-Parsing
+# beautifulsoup4>=4.11.0
+# lxml>=4.9.0
+
+# (Optional) Fortschrittsbalken
+# tqdm>=4.64.0
+
+# (Optional) Farben im Terminal
+# colorama>=0.4.6
